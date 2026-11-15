@@ -11,10 +11,14 @@
             "id": "511d6cbe0343d9a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Введение.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Введение"
             }
           }
         ]
@@ -184,6 +188,7 @@
   },
   "active": "511d6cbe0343d9a1",
   "lastOpenFiles": [
+    "LICENSE",
     "Введение.md",
     "Welcome.md"
   ]
