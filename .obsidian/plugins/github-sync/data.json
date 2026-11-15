@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/selyusize/rust_embedded.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
